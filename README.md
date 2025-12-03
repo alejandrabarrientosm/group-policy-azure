@@ -6,9 +6,6 @@
 
 This tutorial we are going to be dealing with accounts, enable and unlocking in client-1 (Virtual Machine)<br />
 
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How to Deploy on-premises Active Directory within Azure Compute](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
